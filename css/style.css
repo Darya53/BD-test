@@ -5,14 +5,14 @@
 }
 html,
 body {
-    background-color: #a7c1ce;
+    background-color: #727194;
     height: 100%;
     overflow: hidden;
     width: 100%;
     font-family: 'Roboto';
     font-size: 100%;
     line-height: 1;
-    color: #000;
+    color: rgb(255, 254, 254);
     font-size: 14px;
 }
 ul li {
@@ -25,8 +25,8 @@ img {
 .wrapper {
     padding: 50px;
     border-radius: 10px;
-    background-color: rgb(110, 130, 139);
-    max-width: 700px;
+    background-color: #5a5890;
+    max-width: 900px;
     display: flex;
     margin: 50px auto 0px auto;
     flex-direction: column;
@@ -45,7 +45,7 @@ img {
 .btn {
     margin-top: 30px;
     padding: 10px 15px;
-    background-color: lavender;
+    background-color: #4b4a77;
 }
 
 .hidden {
@@ -78,18 +78,18 @@ img {
     justify-content: center;
     padding: 15px;
     border-radius: 5px;
-    background-color: #b1d6e9;
+    background-color: #44436e;
 }
 .btn__answer {
     color: #fff;
     cursor: pointer;
     transition: all 0.3s ease 0s;
-    background-color: #3a5d6f;
+    background-color: #393766;
     padding: 15px 35px;
     margin-bottom: 20px;
 }
 .btn__answer:hover {
-    background-color: #5f95b0;
+    background-color: #625fb0;
 }
 
 .btn__answer_1 {
